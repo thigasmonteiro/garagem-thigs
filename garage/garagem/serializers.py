@@ -38,3 +38,4 @@ class VeiculoListSerializer(ModelSerializer):
     class Meta:
         model = Veiculo
         fields = ["marca", "ano", "preco"]
+        #CRIACAO
