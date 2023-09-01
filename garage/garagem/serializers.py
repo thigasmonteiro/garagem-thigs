@@ -39,3 +39,4 @@ class VeiculoListSerializer(ModelSerializer):
         model = Veiculo
         fields = ["marca", "ano", "preco"]
         #CRIACAO
+        
