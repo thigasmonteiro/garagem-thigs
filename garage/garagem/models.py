@@ -30,7 +30,7 @@ class Acessorio(models.Model):
     
     class Meta:
         verbose_name = "Acessório"
-
+        #s
     class Meta:
         verbose_name_plural = "Acessórios"
         
